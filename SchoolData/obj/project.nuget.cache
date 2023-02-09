@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m9UPxC5ZWqfBB3HU595S1WyL0TT4RXsUhofSZZaF5P/ztU2SiJCiib+sbpqbg81ztBjKPWa7Jl3Ic0CrtJEHwg==",
+  "dgSpecHash": "CipaVXUYYVUnz7q5gBKpLksPqLRgKHNBWdTEjpJ2YIa4VHi+LZNX4Dshjet0H5ZehqYXdhVKE16yz4+CVrTVsg==",
   "success": true,
-  "projectFilePath": "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Utente\\school-data\\SchoolData\\SchoolData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
