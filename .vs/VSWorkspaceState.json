@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolData",
+    "\\SchoolData\\Views",
+    "\\SchoolData\\Views\\Home",
+    "\\SchoolData\\Views\\Shared",
+    "\\SchoolData\\wwwroot"
+  ],
+  "SelectedNode": "\\SchoolData\\Views\\Shared\\Error.cshtml",
+  "PreviewInSolutionExplorer": true
+}
