@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model simpleForm.Models.formClassStudenti
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .mform{
+                border: 2px outset black;
+                background-color: white;
+                text-align: center;
+                font-family: Arial;
+            }
+            .myforma{
+                font-size: large;
+            }
+        </style>
+            <meta name="viewport" content="width=device-width" />
+            <title> Form caricamento studenti</title>
+    </head>
+    <body>
+        <div class = "myform" >
+            <h1 class = "display-4"> Form caricamento studenti </h1>
+          <form asp-action = "form" method="post">
+
+            <div class="myforma">
+                <lable asp-for="CodStudente" class=""> Inserire il codice di riconoscimento dello studente:</lable>
+                <input asp-for="CodStudente" />
+            </div>
+
+            <div class="myforma">
+                <lable asp-for="Nome" class=""> Inserire il nome dello studente:</lable>
+                <input asp-for="Nome" />
+            </div>
+
+            <div class="myforma">
+                <lable asp-for="Cognome" class=""> Inserire il cognome dello studente:</lable>
+                <input asp-for="Cognome" />
+            </div>
+
+            <div class="myforma">
+                <lable asp-for="DataNascita" class=""> Inserire la data di nascita dello studente:</lable>
+                <input asp-for="DataNascita" />
+            </div>
+
+            <div class="myforma">
+                <lable asp-for="Classe" class=""> Inserire la classe di appartenenza dello studente:</lable>
+                <input asp-for="Classe" />
+            </div>
+
+            <div class="myforma">
+                <lable asp-for="MediaVoti" class=""> Inserire la media dei voti dello studente:</lable>
+                <input asp-for="MediaVoti" />
+            </div>
+
+            <div>
+                <p></p>
+            <button type="submit">Invia</button>
+                <p></p>
+            </div>
+
+          </form>
+        </div>
+    </body>
+</html>
