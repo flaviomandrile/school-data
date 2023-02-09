@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj": {}
+    "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/SchoolData.csproj": {}
   },
   "projects": {
-    "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj": {
+    "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/SchoolData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj",
+        "projectUniqueName": "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/SchoolData.csproj",
         "projectName": "SchoolData",
-        "projectPath": "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj",
+        "projectPath": "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/SchoolData.csproj",
         "packagesPath": "/Users/gabrielecavallo/.nuget/packages/",
-        "outputPath": "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/obj/",
+        "outputPath": "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabrielecavallo/.nuget/NuGet/NuGet.Config"

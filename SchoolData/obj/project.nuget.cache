@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m9UPxC5ZWqfBB3HU595S1WyL0TT4RXsUhofSZZaF5P/ztU2SiJCiib+sbpqbg81ztBjKPWa7Jl3Ic0CrtJEHwg==",
+  "dgSpecHash": "RrwGn0ClzhIIxp9IhLSMM1EmvyP8ZnKnGzRHVYu5PiFqsP4N8YfOMJQ/eT2bBbk0OlnVsEZcbrhw7zwDctHpXw==",
   "success": true,
-  "projectFilePath": "/Users/gabrielecavallo/Projects/SchoolData/SchoolData/SchoolData.csproj",
+  "projectFilePath": "/Users/gabrielecavallo/dev/scuola/school-data/SchoolData/SchoolData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
