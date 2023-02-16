@@ -4,7 +4,6 @@ namespace SchoolData.Models
 {
 	public class FormClassStudenti
 	{
-		# "Creazione del form per il caricamento degli studenti seguendo "
 		public int? CodStudente { get; set; }
 		public string? Nome { get; set; }
 		public string? Cognome { get; set; }
